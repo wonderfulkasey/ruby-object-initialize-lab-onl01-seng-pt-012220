@@ -1,4 +1,4 @@
 class Person
-  
+  def
   
 end 
